@@ -3,7 +3,7 @@
 # Lovelab ([bradlove.org](http://bradlove.org)), A computational cognitive science lab directed by Prof Brad Love.
 
 
-We are looking for enthusiastic and motivated students who want to collaborate with Prof Brad Love and members of his [lab](http://bradlove.org). We aim to improve performance of neural network models and make them more human-like by using insights form neuroscience. Students with approrpriate skills with a strong interest in training and evaluating convolutional neural networks should contact Prof Love, b.love@ucl.ac.uk.
+We are looking for enthusiastic and motivated students who want to collaborate with Prof Brad Love and members of his [lab](http://bradlove.org). We aim to improve performance of neural network models and make them more human-like by using insights from neuroscience. Students with approrpriate skills with a strong interest in training and evaluating convolutional neural networks should contact Prof Love, b.love@ucl.ac.uk.
 
 
 ## 1. Similarity functions for deep learning
