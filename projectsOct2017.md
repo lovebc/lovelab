@@ -1,4 +1,4 @@
-CSML project offerings
+# Heading CSML project offerings
 
 Lovelab (bradlove.org), A computational cognitive science lab directed by Prof Brad Love.
 
@@ -12,4 +12,4 @@ Node activations in a deep learning model depend on the dot product of the conne
 
 2. Hierarchical image classification with neural networks
 
-Labelled images, such as of dogs and cats, constitute categories at different levels; for example, a chihuahua is a dog and a mammal. Many of the state-of-the-art image classification networks are trained on labels at a single level with one-hot coding. An easy generalization of this training scheme is to use k-hot coding where k represents the number of categories an image is trained on (i.e., multi-label classification). Training an image on various labels at the same time – as chihuahua, dog, and mammal – could serve two objectives: to make the networks behave more sensibly (human-like) and to facilitate generalization between categories. This project is inspired by previous work in neuroscience and psychology that hypothesizes that a hierarchical structure of categories, or semantic network, is the representation that is being used by the human brain.
+Labelled images, such as of dogs and cats, constitute categories at different levels; for example, a chihuahua is a dog and a mammal. Many of the state-of-the-art image classification networks are trained on labels at a single level with one-hot coding. In this project, we consider cross-category and hierarchical category relations while training networks. The hope is that generalisation performance of networks will improve by taking into account relations across classes. Moreover, error patterns should be more sensible (graceful degradation.)
