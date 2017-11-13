@@ -7,7 +7,7 @@ We are looking for enthusiastic and motivated students who want to collaborate w
 
 ## Prerequisites
 
-I am getting some emails from enthusiastic students (always great) who unfortunately do not have the backgrounds to complete the projects below. Students are going to need an undergraduate degree in computer science degree or closely related. They should be comfortable with linear algebra, multivariate calculus, version control repositories, and proficient in a language that works well with TensorFlow, such as Python or C. These are not concepts that we are going to teach or do for you, but the starting points for the project work. There simply isn't enough time to master these concepts and also do the project work.
+I am getting some emails from enthusiastic students (always great) who unfortunately do not have the backgrounds to complete the projects below. Students are going to need an undergraduate degree in computer science degree or closely related field. Students should be comfortable with linear algebra, multivariate calculus, version control repositories, and proficient in a language that works well with TensorFlow, such as Python or C. These are not concepts that we are going to teach or tasks my lab will do for you, but the starting points for your project work, which we will do collaboratively with you. There simply isn't enough time to master these basic concepts and also do the project work.
 
 ## 1. Unsupervised Deep Learning of Object Representations
 
