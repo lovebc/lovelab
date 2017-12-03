@@ -20,3 +20,8 @@ Node activations in a deep learning model depend on the dot product of the conne
 ## 3. Hierarchical image classification with neural networks (FILLED)
 
 Labelled images, such as of dogs and cats, constitute categories at different levels; for example, a chihuahua is a dog and a mammal. Many of the state-of-the-art image classification networks are trained on labels at a single level with one-hot coding. In this project, we consider cross-category and hierarchical category relations while training networks. The hope is that generalisation performance of networks will improve by taking into account relations across classes. Moreover, error patterns should be more sensible (graceful degradation.) This project is informed by findings in neuroscience about how categories are structured in the human brain.
+
+## 4. Comparing Supervised and Unsupervised (outlier detection) Methods (AVAILABLE)
+
+Often labelled data are at a premium or classes are extremely unbalanced as in fraud detection (i.e., most people are not criminals). In this project, we will compare supervised and unsupervised methods that are closely matched (e.g., both Bayesian clustering models) on their ability to identify rare and aberrant cases. For the dataset we have in mind, labels are available, which will allow us to draw lessons on when unsupervised methods best supervised methods by varying the number of labeled training examples available. This work is collaboration with Dr. Maarten Speekenbrink.
+
