@@ -17,3 +17,5 @@ Artificial neural networks (ANN) are useful tools both for doing supervised lear
 
 ## 3. Attentional mechanisms for convolutional neural networks
 Recent work has related Convolutional Neural Networks (CNN) to the human visual system. However, standard CNNs lacks an essential human ability, namely the ability to selectively attend to information according to the task context. This project aims to endow CNNs with this ability. We focus on featural as opposed to spatial attention. Spatial attention is directed toward a spatial location in an image whereas featural attention can be more diffuse. For example, when searching for one's dog, one may be more sensitive to features that reflect the colour and texture of the dog's fur irrespective of location. The general project aim is to both improve machine learning models and to create better models of human performance.
+
+## 4. Inferring Space: Learning by exploring a virtual environment
