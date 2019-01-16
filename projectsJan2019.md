@@ -20,4 +20,4 @@ Recent work has related Convolutional Neural Networks (CNN) to the human visual 
 
 ## 4. Inferring Space: Learning by exploring a virtual environment
 
-How do people and other animals build cognitive maps of their environments and have a sense of space in general? How much is built-in vs. inferred through learning? In this project, we push to build-in as little as possible and let the learning algorithm do the work. Simulations will concern an agent exploring a virtual environment. Results will be related back to basic findings concerning how the brain represents space.
+How do people and other animals build cognitive maps of their environments and have a sense of space in general? How much is built-in vs. inferred through learning? In this project, we push to build-in as little as possible and let the learning algorithm do the work. Simulations will concern an agent exploring a virtual environment. Analyses will proceed from pixel input. Results will be related back to basic findings concerning how the brain represents space.
