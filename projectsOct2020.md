@@ -15,7 +15,7 @@ Much of human learning is thought to be unsupervised. For example, children do n
 ## 2. Relating the brain to artificial neural networks through embedding spaces
 Artificial neural networks (ANN) are useful tools both for doing supervised learning and for creating embedding spaces. Furthermore, they have even proved to have predictive power for the visual ventral stream in the human brain. This project seeks to reverse the direction of influence by using neural embedding spaces derived from fMRI data (e.g., BOLD5000) to improve the interpretability of ANN solutions. Thus, the goal is to tune ANN solutions to be more brain-like by leveraging embedding spaces inferred from fMRI and other data. One offshot of this project is introducing topological constraints into neural networks to make them more brain-like (and hopefully perform better too).
 
-## 3. Attentional mechanisms for convolutional neural networks
+## 3. Attentional mechanisms for convolutional neural networks (No longer available, FULL)
 Recent work has related Convolutional Neural Networks (CNN) to the human visual system. However, standard CNNs lacks an essential human ability, namely the ability to selectively attend to information according to the task context. This project aims to endow CNNs with this ability. For example, when searching for one's dog, one may be more sensitive to features that reflect the colour and texture of the dog's fur irrespective of location. The general project aim is to both improve machine learning models and to create better models of human performance. The project will be extending on this [recent work](https://arxiv.org/abs/2002.02342) in the lab.
 
 ## 4. Heuristic regularisers for neural networks
