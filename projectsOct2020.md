@@ -21,6 +21,6 @@ Recent work has related Convolutional Neural Networks (CNN) to the human visual 
 ## 4. Heuristic regularisers for neural networks
 [Recent work](https://arxiv.org/abs/2010.02610) in the lab has focused on generalizing ridge regression with robust priors derived from decision heuristics that humans use. Instead of centering a model's solution on the zero vector, heuristics suggest other sensible targets. Our approach is readily extended to the regularisation of neural networks. Artificial neural networks (ANNs) are typically regularised with an L1 or L2 norm to avoid overfitting. This project involves the construction of human-like heuristics as priors on the weights of ANNs. The goal is to selectively insert such priors at certain layers in the network to track improvements in performance, robustness, and interpretability.
 
-## 5. Learning to learn in neural networks
+## 5. Learning to learn in neural networks (FULL)
 Convolutional neural networks can learn to classify a wide range of images from a set of training data. However equal attention is usually paid to all categories during training, despite some classifications being more difficult than others. Further, human input is required to optimise the parameters of the network. This project will involve implementing a supplementary network which learns through feedback from the main model, which classes to select for training, and which parameters lead to optimal performance. The goal is to allow neural networks more control over their own training, and to choose the best learning strategies.
 
