@@ -9,7 +9,7 @@ We are looking for enthusiastic and motivated students who want to collaborate w
 
 I am getting some emails from enthusiastic students (always great) who unfortunately do not have the backgrounds to complete the projects below. Students are going to need an undergraduate degree in computer science degree or closely related field. Students must be proficient in Python and familiar with TensorFlow and/or PyTorch. Students should also be comfortable with linear algebra, multivariate calculus, version control (git), and version control repositories (GitHub). These are not concepts that we are going to teach or tasks my lab will do for you, but the starting points for your project work. We are here to do MSc level research with you, not provide undergraduate training in computer science. There simply isn't enough time to master these basic concepts and also do the project work.
 
-## 1. Attentional mechanisms for convolutional neural networks (Open)
+## 1. Attentional mechanisms for convolutional neural networks (FULL)
 Recent work has related Convolutional Neural Networks (CNN) to the human visual system. However, standard CNNs lacks an essential human ability, namely the ability to selectively attend to information according to the task context. This project aims to endow CNNs with this ability. For example, when searching for one's dog, one may be more sensitive to features that reflect the colour and texture of the dog's fur irrespective of location. The general project aim is to both improve machine learning models and to create better models of human performance. The project will be extending on this [recent work](https://arxiv.org/abs/2002.02342) in the lab.
 
 ## 2. Comparing natural language translations using transformers (Open)
